@@ -4,10 +4,4 @@
 - 📫 How to reach me
 - 💞️ #Email -Kalashtayal2000@gmail.com
 - 👀 #LinkedIn -https://www.linkedin.com/feed/?trk=404_page
-  
-
-
-
-
-https://github.com/kalashtayal/kalashtayal/assets/130529290/0df594e3-2bdc-4741-9f23-d3d970623ba5
-
+  ![readme](https://github.com/kalashtayal/kalashtayal/assets/130529290/398f68bf-207f-4766-b79a-548d1e5ef544)
